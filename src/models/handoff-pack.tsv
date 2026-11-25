@@ -1,0 +1,5 @@
+id	file	type	format	author	tool	licence	source
+models/BlueFlag	BlueFlag/BlueFlag.glb	model	glTF 2.0 GLB, 1 mesh, 2 materials, 1440 triangles	Codex for Robo Violence 2 (Piotr Pełzowski)	Blender 5.3.0 with built-in Python (bpy)	LicenseRef-RV2-Art	Original geometry and animation using supplied P3 cloth texture
+models/BlueFlagPod	BlueFlagPod/BlueFlagPod.glb	model	glTF 2.0 GLB, 1 mesh, 2 materials, 2320 triangles	Codex for Robo Violence 2 (Piotr Pełzowski)	Blender 5.3.0 with built-in Python (bpy)	LicenseRef-RV2-Art	Original geometry using supplied P2 pod top texture
+models/RedFlag	RedFlag/RedFlag.glb	model	glTF 2.0 GLB, 1 mesh, 2 materials, 1440 triangles	Codex for Robo Violence 2 (Piotr Pełzowski)	Blender 5.3.0 with built-in Python (bpy)	LicenseRef-RV2-Art	Original geometry and animation using supplied P3 cloth texture
+models/RedFlagPod	RedFlagPod/RedFlagPod.glb	model	glTF 2.0 GLB, 1 mesh, 2 materials, 2320 triangles	Codex for Robo Violence 2 (Piotr Pełzowski)	Blender 5.3.0 with built-in Python (bpy)	LicenseRef-RV2-Art	Original geometry using supplied P2 pod top texture
