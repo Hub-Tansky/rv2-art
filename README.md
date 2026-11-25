@@ -17,6 +17,8 @@ the game downloads on first run and stacks over its free placeholder pack (ADR 0
   the default skin.
 - `pack/main/models/<name>.DKO` with their PNG textures beside them: CTF flags (10 frames, a 1 s loop) and flag pods,
   converted with the game repo's `tools/gltf-to-dko.py` (ADR ROBO-247).
+- `pack/main/fonts/Teko-SemiBold.ttf` at id `fonts/babo`: the game font, baked at load (game ADR 0067, ROBO-265).
+  Teko is under the SIL Open Font License 1.1 (`fonts/OFL.txt`), not the art licence.
 - `src/models/<name>/`: Blender sources, glTF exports and top-down comparisons of those models. Not in the release.
 
 ## Release
@@ -34,3 +36,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | 1 | Four map looks (floor, floor dirt, wall), sky, crosshairs, menu cursor, HUD flags, minimap dots, halo, shadow, splash |
 | 2 | Pack 1 plus 17 full-colour ball skins with team masks (faces 01-03, 05-07, 08 as `skin10`, 09, 14-16, 18, 20-23, 25) |
 | 3 | Pack 2 plus CTF models: BlueFlag, RedFlag (animated), BlueFlagPod, RedFlagPod |
+| 4 | Pack 3 plus the game font: Teko SemiBold (OFL-1.1) replaces `babo.tga` |

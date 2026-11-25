@@ -11,6 +11,8 @@ This package contains two separate works, distributed together:
    "LicenseRef-RV2-Art" in pack.tsv): Copyright (c) 2026 Piotr Pełzowski.
    Licence: Robo Violence 2 Art Licence (licenses/LICENSE-ART.txt). Not free software;
    not covered by the GPL.
+   Its font (fonts/Teko-SemiBold.ttf, "OFL-1.1" in pack.tsv) is Teko, Copyright 2023 The Teko
+   Project Authors, under the SIL Open Font License 1.1 (fonts/OFL.txt in the pack).
 
 The program also runs without the art pack, using the free placeholder pack (main/pack.tsv,
 GPL-3.0-or-later). Third-party licences are in licenses/.
