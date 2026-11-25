@@ -68,3 +68,42 @@ models/pod-side-red	models/pod-side-red.png	texture	PNG 256×256×24	Piotr Pełz
 models/pod-top-blue	models/pod-top-blue.png	texture	PNG 512×512×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy); RoboViolence2 tools/gltf-to-dko.py	LicenseRef-RV2-Art	batch 1, src/models (Blender texture)
 models/pod-top-red	models/pod-top-red.png	texture	PNG 512×512×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy); RoboViolence2 tools/gltf-to-dko.py	LicenseRef-RV2-Art	batch 1, src/models (Blender texture)
 fonts/babo	fonts/Teko-SemiBold.ttf	font	TTF	The Teko Project Authors	Teko static SemiBold (600) from google/fonts; game bakes it (ADR 0067, ROBO-265)	OFL-1.1	https://github.com/googlefonts/teko
+models/Antena	models/Antena.DKO	model	DKO v2, 180 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original flush minibot sensor housing), src/models/Antena/Antena.blend
+models/Bazooka	models/Bazooka.DKO	model	DKO v2, 1016 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Approved pilot, original rail-mounted model), src/models/Bazooka/Bazooka.blend
+models/ChainGun	models/ChainGun.DKO	model	DKO v2, 1124 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/ChainGun/ChainGun.blend
+models/CocktailMolotov	models/CocktailMolotov.DKO	model	DKO v2, 336 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/CocktailMolotov/CocktailMolotov.blend
+models/Douille	models/Douille.DKO	model	DKO v2, 140 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Douille/Douille.blend
+models/DualMachineGun	models/DualMachineGun.DKO	model	DKO v2, 1384 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/DualMachineGun/DualMachineGun.blend
+models/FlameThrower	models/FlameThrower.DKO	model	DKO v2, 920 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/FlameThrower/FlameThrower.blend
+models/Gib	models/Gib.DKO	model	DKO v2, 52 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original fractured steel debris), src/models/Gib/Gib.blend
+models/Grenade	models/Grenade.DKO	model	DKO v2, 612 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Grenade/Grenade.blend
+models/Hand	models/Hand.DKO	model	DKO v2, 452 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original robot throwables cradle), src/models/Hand/Hand.blend
+models/Knifes	models/Knifes.DKO	model	DKO v2, 128 triangles, 11 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Knifes/Knifes.animated.glb
+models/LifePack	models/LifePack.DKO	model	DKO v2, 360 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/LifePack/LifePack.blend
+models/Nuclear	models/Nuclear.DKO	model	DKO v2, 472 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Nuclear/Nuclear.blend
+models/PhotonRifle	models/PhotonRifle.DKO	model	DKO v2, 908 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/PhotonRifle/PhotonRifle.blend
+models/Rocket	models/Rocket.DKO	model	DKO v2, 432 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Rocket/Rocket.blend
+models/SMG	models/SMG.DKO	model	DKO v2, 872 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/SMG/SMG.blend
+models/Shield	models/Shield.DKO	model	DKO v2, 28 triangles, 21 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original single shield sector with sampled animation), src/models/Shield/Shield.animated.glb
+models/ShieldMagnet	models/ShieldMagnet.DKO	model	DKO v2, 96 triangles, 21 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/ShieldMagnet/ShieldMagnet.animated.glb
+models/ShotGun	models/ShotGun.DKO	model	DKO v2, 800 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/ShotGun/ShotGun.blend
+models/Sniper	models/Sniper.DKO	model	DKO v2, 752 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Sniper/Sniper.blend
+models/Bazooka-texture	models/Bazooka.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/ChainGun-texture	models/ChainGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/CocktailMolotov-texture	models/CocktailMolotov.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Douille-texture	models/Douille.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/DualMachineGun-texture	models/DualMachineGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/FlameThrower-texture	models/FlameThrower.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Gib-texture	models/Gib.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Grenade-texture	models/Grenade.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Hand-texture	models/Hand.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Knife-texture	models/Knife.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (shared texture)
+models/LifePack-texture	models/LifePack.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Nuclear-texture	models/Nuclear.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/PhotonRifle-texture	models/PhotonRifle.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Rocket-texture	models/Rocket.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/SMG-texture	models/SMG.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/ShieldMagnet-texture	models/ShieldMagnet.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Shieldtga-texture	models/Shieldtga.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (shared texture)
+models/ShotGun-texture	models/ShotGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Sniper-texture	models/Sniper.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)

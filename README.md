@@ -16,10 +16,13 @@ the game downloads on first run and stacks over its free placeholder pack (ADR 0
   full-colour ball skins, new ids `skins/<name>` and `skins/<name>_mask` (game ADR ROBO-258). `skin10` is face 08,
   the default skin.
 - `pack/main/models/<name>.DKO` with their PNG textures beside them: CTF flags (10 frames, a 1 s loop) and flag pods,
-  converted with the game repo's `tools/gltf-to-dko.py` (ADR ROBO-247).
+  converted with the game repo's `tools/gltf-to-dko.py` (ADR ROBO-247). Batch 2 adds the 14 weapon models plus
+  Hand, Rocket, Douille, Gib, LifePack and Antena, exported straight from Blender. The DKO loads its texture by file
+  name from its own folder, so the batch 2 texture rows use `<name>-texture` ids that override nothing.
 - `pack/main/fonts/Teko-SemiBold.ttf` at id `fonts/babo`: the game font, baked at load (game ADR 0067, ROBO-265).
   Teko is under the SIL Open Font License 1.1 (`fonts/OFL.txt`), not the art licence.
 - `src/models/<name>/`: Blender sources, glTF exports and top-down comparisons of those models. Not in the release.
+  `src/models/batch2-README.md` lists the weapon attachment dummies (`flash<n>`, `eject<n>`) and animated frames.
 
 ## Release
 
@@ -37,3 +40,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | 2 | Pack 1 plus 17 full-colour ball skins with team masks (faces 01-03, 05-07, 08 as `skin10`, 09, 14-16, 18, 20-23, 25) |
 | 3 | Pack 2 plus CTF models: BlueFlag, RedFlag (animated), BlueFlagPod, RedFlagPod |
 | 4 | Pack 3 plus the game font: Teko SemiBold (OFL-1.1) replaces `babo.tga` |
+| 5 | Pack 4 plus batch 2: all 14 weapon models (Knifes, Shield and ShieldMagnet animated), Hand, Rocket, Douille, Gib, LifePack, Antena |
