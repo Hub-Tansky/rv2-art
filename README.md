@@ -12,6 +12,9 @@ the game downloads on first run and stacks over its free placeholder pack (ADR 0
 - `pack/main/pack.tsv`: one row per file (id, file, type, format, author, tool, licence, source), checked by the
   game repo's `tools/check-pack.py --base content/base-pack.tsv`.
 - `pack/main/textures/...`: files at the same ids as the base pack.
+- `pack/main/skins/<name>.png` (512x256 RGB, equirectangular) and `<name>_mask.png` (white where team colour goes):
+  full-colour ball skins, new ids `skins/<name>` and `skins/<name>_mask` (game ADR ROBO-258). `skin10` is face 08,
+  the default skin.
 
 ## Release
 
@@ -26,3 +29,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | Version | Content |
 |---|---|
 | 1 | Four map looks (floor, floor dirt, wall), sky, crosshairs, menu cursor, HUD flags, minimap dots, halo, shadow, splash |
+| 2 | Pack 1 plus 17 full-colour ball skins with team masks (faces 01-03, 05-07, 08 as `skin10`, 09, 14-16, 18, 20-23, 25) |
