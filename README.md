@@ -44,4 +44,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | 4 | Pack 3 plus the game font: Teko SemiBold (OFL-1.1) replaces `babo.tga` |
 | 5 | Pack 4 plus batch 2: all 14 weapon models (Knifes, Shield and ShieldMagnet animated), Hand, Rocket, Douille, Gib, LifePack, Antena |
 | 6 | Pack 5 with fixes from the owner's playtest: Hand gets the `flash1` dummy that grenade and molotov throws start from (without it the throw did nothing), and the font is Teko Medium (500), slimmer than SemiBold |
-| 7 | Pack 6 plus batch 3 combat effects: 10 hit splatters (white, the game tints them oil and coolant), drip, explosion and bomb marks, smoke, glows, muzzle flash, hit vignette and 3 HUD icons |
+| 7 | Pack 6 plus batch 3 combat effects: 10 hit splatters (white, the game tints them oil and coolant), drip, explosion and bomb marks, smoke, glows, muzzle flash, hit vignette and 3 HUD icons; Knifes is now a ring of 8 blades, and Hand is re-exported with its `flash1` from source |
