@@ -19,7 +19,7 @@ the game downloads on first run and stacks over its free placeholder pack (ADR 0
   converted with the game repo's `tools/gltf-to-dko.py` (ADR ROBO-247). Batch 2 adds the 14 weapon models plus
   Hand, Rocket, Douille, Gib, LifePack and Antena, exported straight from Blender. The DKO loads its texture by file
   name from its own folder, so the batch 2 texture rows use `<name>-texture` ids that override nothing.
-- `pack/main/fonts/Teko-SemiBold.ttf` at id `fonts/babo`: the game font, baked at load (game ADR 0067, ROBO-265).
+- `pack/main/fonts/Teko-Medium.ttf` at id `fonts/babo`: the game font, baked at load (game ADR 0067, ROBO-265).
   Teko is under the SIL Open Font License 1.1 (`fonts/OFL.txt`), not the art licence.
 - `src/models/<name>/`: Blender sources, glTF exports and top-down comparisons of those models. Not in the release.
   `src/models/batch2-README.md` lists the weapon attachment dummies (`flash<n>`, `eject<n>`) and animated frames.
@@ -41,3 +41,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | 3 | Pack 2 plus CTF models: BlueFlag, RedFlag (animated), BlueFlagPod, RedFlagPod |
 | 4 | Pack 3 plus the game font: Teko SemiBold (OFL-1.1) replaces `babo.tga` |
 | 5 | Pack 4 plus batch 2: all 14 weapon models (Knifes, Shield and ShieldMagnet animated), Hand, Rocket, Douille, Gib, LifePack, Antena |
+| 6 | Pack 5 with fixes from the owner's playtest: Hand gets the `flash1` dummy that grenade and molotov throws start from (without it the throw did nothing), and the font is Teko Medium (500), slimmer than SemiBold |
