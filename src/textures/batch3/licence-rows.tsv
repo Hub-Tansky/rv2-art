@@ -1,0 +1,23 @@
+id	file	type	format	author	tool	licence	source
+textures/blood01	textures/blood01.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, round splat
+textures/blood02	textures/blood02.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, fast streak
+textures/blood03	textures/blood03.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, spray cone
+textures/blood04	textures/blood04.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, drip run
+textures/blood05	textures/blood05.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, star impact
+textures/blood06	textures/blood06.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, lobed splat
+textures/blood07	textures/blood07.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, coarse spray
+textures/blood08	textures/blood08.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, crown splat
+textures/blood09	textures/blood09.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, curved smear
+textures/blood10	textures/blood10.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original neutral oil splatter, forked splash
+textures/drip	textures/drip.png	texture	PNG RGBA 32x32	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	Original neutral damage-drop mask
+textures/ExplosionMark	textures/ExplosionMark.png	texture	PNG RGBA 128x128	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original cracked charcoal scorch
+textures/BombMark	textures/BombMark.png	texture	PNG RGBA 128x128	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	Original neutral objective reticle
+textures/Smoke1	textures/Smoke1.png	texture	PNG RGBA 256x256	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original soft smoke and fire mask
+textures/Smoke2	textures/Smoke2.png	texture	PNG RGBA 256x256	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original soft smoke, horizontal repetition and menu
+textures/shotGlow	textures/shotGlow.png	texture	PNG RGBA 64x64	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	Original radial additive falloff
+textures/glowTrail	textures/glowTrail.png	texture	PNG RGBA 64x64	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	Original horizontal additive falloff
+textures/nuzzleFlash	textures/nuzzleFlash.png	texture	PNG RGB 64x64	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original top-down amber additive muzzle flash
+textures/screenHit	textures/screenHit.png	texture	PNG RGBA 512x512	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	Original oil and coolant vignette
+textures/GrenadeIcon	textures/GrenadeIcon.png	texture	PNG RGBA 64x64	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	Robo Violence 2 Batch 2 Grenade.glb
+textures/molotovIcon	textures/molotovIcon.png	texture	PNG RGBA 64x64	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	Robo Violence 2 Batch 2 CocktailMolotov.glb
+textures/CartridgeIcon	textures/CartridgeIcon.png	texture	PNG RGBA 64x64	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	Robo Violence 2 Batch 2 Douille.glb
