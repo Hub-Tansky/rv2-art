@@ -4,7 +4,7 @@ textures/BaboShadow	textures/BaboShadow.png	texture	PNG 128×128×32	Piotr Pełz
 textures/BlueFlag	textures/BlueFlag.png	texture	PNG 64×64×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
 textures/Cross01	textures/Cross01.png	texture	PNG 64×64×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
 textures/CrossHit	textures/CrossHit.png	texture	PNG 64×64×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
-textures/MenuCursor	textures/MenuCursor.png	texture	PNG 64×64×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
+textures/MenuCursor	textures/MenuCursor.png	texture	PNG 64×64×32	Piotr Pełzowski	Codex + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Honed steel cursor
 textures/MiniMapAllied	textures/MiniMapAllied.png	texture	PNG 32×32×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
 textures/MiniMapEnemy	textures/MiniMapEnemy.png	texture	PNG 32×32×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
 textures/RedFlag	textures/RedFlag.png	texture	PNG 64×64×32	Piotr Pełzowski	OpenAI image model; design/tools/export_assets.py	LicenseRef-RV2-Art	design/export (batch 1)
@@ -76,17 +76,17 @@ models/Douille	models/Douille.DKO	model	DKO v2, 140 triangles, 1 frames	Piotr Pe
 models/DualMachineGun	models/DualMachineGun.DKO	model	DKO v2, 1384 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/DualMachineGun/DualMachineGun.blend
 models/FlameThrower	models/FlameThrower.DKO	model	DKO v2, 920 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/FlameThrower/FlameThrower.blend
 models/Gib	models/Gib.DKO	model	DKO v2, 52 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original fractured steel debris), src/models/Gib/Gib.blend
-models/Grenade	models/Grenade.DKO	model	DKO v2, 612 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Grenade/Grenade.blend
+models/Grenade	models/Grenade.DKO	model	DKO v2, 3028 triangles, 1 frame	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Pineapple / src/models/Grenade/Grenade.blend
 models/Hand	models/Hand.DKO	model	DKO v2, 452 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original robot throwables cradle; flash1 throw point at 0.24, 0.125, 0.25 m, re-exported 2026-11-26), src/models/Hand/Hand.blend
 models/Knifes	models/Knifes.DKO	model	DKO v2, 128 triangles, 11 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (ring of 8 blades every 45°, deploy over frames 0-10, re-exported 2026-11-26 after playtest), src/models/Knifes/Knifes.animated.glb
 models/LifePack	models/LifePack.DKO	model	DKO v2, 360 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/LifePack/LifePack.blend
 models/Nuclear	models/Nuclear.DKO	model	DKO v2, 472 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Nuclear/Nuclear.blend
 models/PhotonRifle	models/PhotonRifle.DKO	model	DKO v2, 908 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/PhotonRifle/PhotonRifle.blend
 models/Rocket	models/Rocket.DKO	model	DKO v2, 432 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Rocket/Rocket.blend
-models/SMG	models/SMG.DKO	model	DKO v2, 872 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/SMG/SMG.blend
+models/SMG	models/SMG.DKO	model	DKO v2, 1768 triangles, 1 frame	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Caged ceramic / src/models/SMG/SMG.blend
 models/Shield	models/Shield.DKO	model	DKO v2, 28 triangles, 21 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original single shield sector with sampled animation), src/models/Shield/Shield.animated.glb
 models/ShieldMagnet	models/ShieldMagnet.DKO	model	DKO v2, 96 triangles, 21 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/ShieldMagnet/ShieldMagnet.animated.glb
-models/ShotGun	models/ShotGun.DKO	model	DKO v2, 800 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/ShotGun/ShotGun.blend
+models/ShotGun	models/ShotGun.DKO	model	DKO v2, 1372 triangles, 1 frame	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Break action / src/models/ShotGun/ShotGun.blend
 models/Sniper	models/Sniper.DKO	model	DKO v2, 752 triangles, 1 frames	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2 (Original Batch 2 model and baked base colour), src/models/Sniper/Sniper.blend
 models/Bazooka-texture	models/Bazooka.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/ChainGun-texture	models/ChainGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
@@ -95,28 +95,28 @@ models/Douille-texture	models/Douille.png	texture	PNG 256×256×24	Piotr Pełzow
 models/DualMachineGun-texture	models/DualMachineGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/FlameThrower-texture	models/FlameThrower.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/Gib-texture	models/Gib.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
-models/Grenade-texture	models/Grenade.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/Grenade-texture	models/Grenade.png	texture	PNG 512×512×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Pineapple / baked base colour
 models/Hand-texture	models/Hand.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/Knife-texture	models/Knife.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (shared texture)
 models/LifePack-texture	models/LifePack.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/Nuclear-texture	models/Nuclear.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/PhotonRifle-texture	models/PhotonRifle.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/Rocket-texture	models/Rocket.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
-models/SMG-texture	models/SMG.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/SMG-texture	models/SMG.png	texture	PNG 512×512×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Caged ceramic / baked base colour
 models/ShieldMagnet-texture	models/ShieldMagnet.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
 models/Shieldtga-texture	models/Shieldtga.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (shared texture)
-models/ShotGun-texture	models/ShotGun.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
+models/ShotGun-texture	models/ShotGun.png	texture	PNG 512×512×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	Round fixes 1 / Break action / baked base colour
 models/Sniper-texture	models/Sniper.png	texture	PNG 256×256×24	Piotr Pełzowski	Codex with Blender 5.3.0 (bpy)	LicenseRef-RV2-Art	batch 2, src/models (Blender texture)
-textures/blood01	textures/blood01.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, round splat
-textures/blood02	textures/blood02.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, fast streak
-textures/blood03	textures/blood03.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, spray cone
-textures/blood04	textures/blood04.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, drip run
-textures/blood05	textures/blood05.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, star impact
-textures/blood06	textures/blood06.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, lobed splat
-textures/blood07	textures/blood07.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, coarse spray
-textures/blood08	textures/blood08.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, crown splat
-textures/blood09	textures/blood09.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, curved smear
-textures/blood10	textures/blood10.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral oil splatter, forked splash
+textures/blood01	textures/blood01.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Round splat / alpha mask at 70% radius
+textures/blood02	textures/blood02.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Fast streak / alpha mask at 70% radius
+textures/blood03	textures/blood03.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Spray cone / alpha mask at 70% radius
+textures/blood04	textures/blood04.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Drip run / alpha mask at 70% radius
+textures/blood05	textures/blood05.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Asymmetric pooled splat / alpha mask at 70% radius
+textures/blood06	textures/blood06.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Lobed splat / alpha mask at 70% radius
+textures/blood07	textures/blood07.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Coarse spray / alpha mask at 70% radius
+textures/blood08	textures/blood08.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Crown splat / alpha mask at 70% radius
+textures/blood09	textures/blood09.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Curved smear / alpha mask at 70% radius
+textures/blood10	textures/blood10.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Forked splash / alpha mask at 70% radius
 textures/drip	textures/drip.png	texture	PNG 32×32×32	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral damage-drop mask
 textures/ExplosionMark	textures/ExplosionMark.png	texture	PNG 128×128×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original cracked charcoal scorch
 textures/BombMark	textures/BombMark.png	texture	PNG 128×128×32	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original neutral objective reticle
@@ -126,6 +126,6 @@ textures/shotGlow	textures/shotGlow.png	texture	PNG 64×64×32	Piotr Pełzowski	
 textures/glowTrail	textures/glowTrail.png	texture	PNG 64×64×32	Piotr Pełzowski	Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original horizontal additive falloff; turned to run along the shot and tile (Trail::render maps V along the beam)
 textures/nuzzleFlash	textures/nuzzleFlash.png	texture	PNG 64×64×24	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original top-down amber additive muzzle flash
 textures/screenHit	textures/screenHit.png	texture	PNG 512×512×32	Piotr Pełzowski	OpenAI ImageGen + Pillow / NumPy	LicenseRef-RV2-Art	batch 3: Original oil and coolant vignette
-textures/GrenadeIcon	textures/GrenadeIcon.png	texture	PNG 64×64×32	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	batch 3: Robo Violence 2 Batch 2 Grenade.glb
+textures/GrenadeIcon	textures/GrenadeIcon.png	texture	PNG 64×64×32	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	Round fixes 1 / Pineapple model render / src/models/Grenade/Grenade.blend
 textures/molotovIcon	textures/molotovIcon.png	texture	PNG 64×64×32	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	batch 3: Robo Violence 2 Batch 2 CocktailMolotov.glb
 textures/CartridgeIcon	textures/CartridgeIcon.png	texture	PNG 64×64×32	Piotr Pełzowski	Blender + Pillow	LicenseRef-RV2-Art	batch 3: Robo Violence 2 Batch 2 Douille.glb
