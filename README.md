@@ -48,3 +48,4 @@ Never delete or replace a published release: installed games keep using its URL 
 | 8 | Pack 7 with a black ball shadow: `BaboShadow` was white, and the game draws the player shadow untinted, so balls had a white glow under them |
 | 9 | Pack 8 with round fixes 1: Pineapple grenade with a matching HUD icon, Break Action shotgun, Caged Ceramic SMG (85% of the old size), Honed Steel menu cursor, and the ten blood splats at 70% radius (`blood05` is now a pooled shape; the game tints them red again) |
 | 10 | Pack 9 with SMG, ShotGun and Grenade at the right size: their DKOs had been exported at 100 units per metre instead of 200, so the guns sat half size inside the ball; `check-dummies.py` now checks the rail position |
+| 11 | Pack 10 with round fixes 2: Twin Red Shells shotgun ammo icon (`CartridgeIcon`), Olive Wrap Molotov icon, Lighter Brass casing texture (`Douille.png`; the casing mesh is unchanged) |
